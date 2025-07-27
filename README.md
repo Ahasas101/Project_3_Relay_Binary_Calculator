@@ -32,6 +32,6 @@ This project is a 4-bit binary calculator capable of performing addition and sub
 
 ## Author
 
-Ahasas Yadav
-B.Tech, Electronics and Communication Engineering
+**Ahasas Yadav**  
+B.Tech, Electronics and Communication Engineering  
 Indian Institute of Information Technology, Una
