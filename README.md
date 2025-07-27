@@ -2,6 +2,10 @@
 
 This project is a 4-bit binary calculator capable of performing addition and subtraction using only electromechanical relays. It relies entirely on relay logic, without the use of microprocessors, transistors, or any modern semiconductor devices. The design is inspired by early computers built before the invention of BJTs, MOSFETs, and CMOS technology.
 
+## Demo Video
+
+[Watch the demo on YouTube](https://youtu.be/0r_467PNGEw)
+
 ## Features
 
 - 4-bit binary operation
